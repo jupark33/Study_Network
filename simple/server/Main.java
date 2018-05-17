@@ -1,5 +1,3 @@
-package kr.co.ckbs.app.print;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
