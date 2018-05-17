@@ -1,5 +1,3 @@
-package kr.co.ckbs.app.print;
-
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.IOException;
